@@ -51,7 +51,6 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 ### 📫 Cómo contactarme
 
 - **Email:** [tomasnahuelmessineo@gmail.com](mailto:tomasnahuelmessineo@gmail.com)
-- **LinkedIn:** [Tomas Messineo](https://www.linkedin.com/in/tomasmessineo/)
 - **GitHub:** [TomasMessineo](https://github.com/TomasMessineo)
 
 ---
