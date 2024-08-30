@@ -12,7 +12,7 @@
 - 🌱 Siempre en constante aprendizaje, mejorando mis habilidades en **React**, **PHP**, entre otras tecnologías.
 - 🎶 Amante de la música: Ed Sheeran, Bruno Mars, y Chris Martin (Coldplay) son mis favoritos.
 - 🎯 Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
-- ⚡ Fun Fact: Me encanta resolver problemas complejos, pero nunca pierdo la sonrisa.
+- ⚡ Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
 
 ---
 
