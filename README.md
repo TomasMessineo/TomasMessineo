@@ -16,9 +16,6 @@ Permítame presentarme: Soy un joven estudiante de Informática en la Universida
 - LinkedIn: [Tomas Messineo](https://www.linkedin.com/in/tomasmessineo/)
 - GitHub: [TomasMessineo](https://github.com/TomasMessineo)
 
-## 📈 Estadísticas de GitHub
-![Tomas Messineo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasMessineo&show_icons=true&theme=radical)
-
 ## 🌍 Encuéntrame en otros lugares
 - [Portfolio](https://tomasmessineo.com) - Echa un vistazo a mis proyectos y trabajos más recientes.
 - [YouTube](https://youtube.com/tomasmessineo) - Donde comparto tutoriales y mi música.
