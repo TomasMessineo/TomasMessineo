@@ -58,7 +58,7 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
         </a>
       </td>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100"/>
         </a>
       </td>
