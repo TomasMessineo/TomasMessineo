@@ -2,7 +2,7 @@
 
 ![Welcome to my GitHub](https://your-image-link-here.com)
 
-Soy un desarrollador apasionado por la creación de software que combine elegancia y funcionalidad. A lo largo de los años, he trabajado en diversos proyectos que abarcan desde sistemas operativos hasta aplicaciones web modernas. Aquí encontrarás una mezcla de mis trabajos, proyectos en los que estoy colaborando, y cosas que simplemente me apasionan.
+Permítame presentarme: Soy un jóven estudiante de Informática en la Universidad Nacional de La Plata el cual mejorar día a día :D, ¡me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos y cosas que simplemente me apasionan. Si te interesa, puedes echar un vistazo.
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente estoy trabajando en proyectos con **Next.js** y **Tailwind CSS**.
