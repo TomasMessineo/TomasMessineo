@@ -46,6 +46,7 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
   </a>
 </p>
 
+---
 
 ### 📫 Cómo contactarme
 
