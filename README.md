@@ -1,6 +1,6 @@
 # Hola, soy Tomas Messineo 👋
 
-<img src="https://i.imgur.com/Sy9lHrz.png" alt="Welcome to my GitHub" width="400"/>
+<img src="https://i.imgur.com/Sy9lHrz.png" alt="Welcome to my GitHub" width="400" style="border-radius: 10px"/>
 
 Permítame presentarme: Soy un joven estudiante de Informática en la Universidad Nacional de La Plata, siempre buscando mejorar día a día :D. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos y cosas que simplemente me apasionan. Si te interesa, puedes echar un vistazo.
 
