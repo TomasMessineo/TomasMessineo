@@ -13,7 +13,7 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 ### 🚀 Sobre mí
 
 - 🔭 Actualmente, me encuentro trabajando en proyectos con **Next.js** y **Tailwind CSS**.
-- 🌱 Siempre en constante aprendizaje, mejorando mis habilidades en **React**, **PHP**, entre otras tecnologías.
+- 🌱 Siempre en constante aprendizaje, mejorando mis habilidades en **JavaScript**, **PHP**, entre otras tecnologías.
 - 🎶 Amante de la música: Ed Sheeran, Bruno Mars, y Chris Martin (Coldplay) son mis favoritos.
 - 🎯 Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
 - ⚡ Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
