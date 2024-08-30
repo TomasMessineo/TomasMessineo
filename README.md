@@ -2,7 +2,7 @@
 
 ![Welcome to my GitHub](https://i.imgur.com/Sy9lHrz.png)
 
-Permítame presentarme: Soy un jóven estudiante de Informática en la Universidad Nacional de La Plata el cual mejorar día a día :D, ¡me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos y cosas que simplemente me apasionan. Si te interesa, puedes echar un vistazo.
+Permítame presentarme: Soy un joven estudiante de Informática en la Universidad Nacional de La Plata, siempre buscando mejorar día a día :D. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos y cosas que simplemente me apasionan. Si te interesa, puedes echar un vistazo.
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente estoy trabajando en proyectos con **Next.js** y **Tailwind CSS**.
