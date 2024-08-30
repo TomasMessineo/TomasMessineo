@@ -23,48 +23,29 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 ### 🛠️ Tecnologías en las cuales estoy capacitandome:
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nextjs.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.php.net/" target="_blank">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_self">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100"/>
-        </a>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+  <span>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="100"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="100"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="100"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="100"/>
+    </a>
+    <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="100"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="100"/>
+    </a>
+  </span>
 </p>
 
 ---
