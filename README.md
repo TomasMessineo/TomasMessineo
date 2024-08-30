@@ -8,7 +8,7 @@
 
 ### 🕶️ Permítame presentarme:
 
-Soy un joven estudiante de Informática en la Universidad Nacional de La Plata, siempre buscando mejorar día a día :D. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos y cosas que simplemente me apasionan. Si te interesa, puedes echar un vistazo.
+Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. Soy de Argentina 🇦🇷. Siempre busco e intento mejorar día a día :D. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos e ideas que me apasionan. Si te interesa, puedes echar un vistazo.
 
 ### 🚀 Sobre mí
 
