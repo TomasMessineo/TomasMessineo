@@ -24,29 +24,28 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="120" height="50"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="120" height="50"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="120" height="50"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="50"/>
   </a>
   <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="120" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="80" height="80"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="120" height="50"/>
   </a>
 </p>
 
----
 
 ### 📫 Cómo contactarme
 
