@@ -57,8 +57,8 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 
 ### 🌍 Encuéntrame en otros lugares
 
-- [**Portfolio**](https://tomasmessineo.com) - Mira mis proyectos más recientes.
-- [**YouTube**](https://youtube.com/tomasmessineo) - Tutoriales y algo de música que me apasiona.
+- [**Portfolio**](https://tomasmessineoweb.netlify.app) - Mira mis proyectos más recientes.
+- [**YouTube**]([https://youtube.com/tomasmessineo](https://www.youtube.com/@tomasmessineok)) - Tutoriales y algo de música que me apasiona.
 
 ---
 
