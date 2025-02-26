@@ -41,6 +41,9 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="120" height="50"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="50"/>
+  </a>
 </p>
 
 ---
