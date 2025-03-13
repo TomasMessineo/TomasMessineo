@@ -1,9 +1,4 @@
 # Hola, soy Tomas Messineo 👋
-
-<p align="center">
-  <img src="https://i.imgur.com/Sy9lHrz.png" alt="Welcome to my GitHub" width="300"/>
-</p>
-
 ---
 
 ### 🕶️ Permítame presentarme:
