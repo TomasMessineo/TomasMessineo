@@ -3,12 +3,11 @@
 
 ### 🕶️ Permítame presentarme:
 
-Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. Soy de Argentina 🇦🇷. Siempre busco e intento mejorar día a día :D. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos e ideas que me apasionan. Si te interesa, puedes echar un vistazo.
+Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. Soy de Argentina 🇦🇷. Siempre busco e intento mejorar día a día. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos e ideas que me apasionan. Si te interesa, puedes echar un vistazo.
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente, me encuentro trabajando en proyectos con **Next.js** y **Tailwind CSS**.
-- 🌱 Siempre en constante aprendizaje, mejorando mis habilidades en **JavaScript**, **PHP**, entre otras tecnologías.
+- 🔭 Actualmente, me encuentro trabajando en proyectos con **PHP**.
 - 🎶 Amante de la música: Ed Sheeran, Bruno Mars, Teddy Swims, Maroon 5 y Coldplay son mis artistas/bandas preferidas.
 - 🎯 Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
 - ⚡ Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
