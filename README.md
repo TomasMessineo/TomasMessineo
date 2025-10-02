@@ -1,20 +1,20 @@
 # Hola, soy Tomas Messineo 👋
 ---
 
-### 🕶️ Permítame presentarme:
+### Me presento:
 
 Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. Soy de Argentina 🇦🇷. Siempre busco e intento mejorar día a día. ¡Me apasiona aprender cosas nuevas! Aquí encontrarás una mezcla de mis proyectos e ideas que me apasionan. Si te interesa, puedes echar un vistazo.
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente, me encuentro trabajando en proyectos con **PHP**.
-- 🎶 Amante de la música: Ed Sheeran, Bruno Mars, Teddy Swims, Maroon 5 y Coldplay son mis artistas/bandas preferidas.
-- 🎯 Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
-- ⚡ Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
+- Actualmente me encuentro trabajando en proyectos con **PHP**.
+- Amante de la música: Ed Sheeran, Bruno Mars, Teddy Swims, Maroon 5 y Coldplay son mis artistas/bandas preferidas.
+- Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
+- Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
 
 ---
 
-### 🛠️ Tecnologías en las cuales estoy capacitandome:
+### Tecnologías en las cuales estoy capacitandome:
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
@@ -42,16 +42,15 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 
 ---
 
-### 📫 Cómo contactarme
+### Cómo contactarme
 
 - **Email:** [tomasnahuelmessineo@gmail.com](mailto:tomasnahuelmessineo@gmail.com)
 - **GitHub:** [TomasMessineo](https://github.com/TomasMessineo)
 
 ---
 
-### 🌍 Encuéntrame en otros lugares
+### Encuéntrame en otros lugares
 
-- [**Portfolio**](https://tomasmessineoweb.netlify.app) - Mira mis proyectos más recientes.
 - [**YouTube**](https://www.youtube.com/@tomasmessineok) - Tutoriales y algo de música que me apasiona.
 
 ---
