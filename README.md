@@ -23,15 +23,8 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="120" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" width="120" height="40"/>
-  </a>
-
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" width="120" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring" width="120" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="40"/>
