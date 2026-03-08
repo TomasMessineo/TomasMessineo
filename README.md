@@ -38,6 +38,12 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="50"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" width="120" height="50"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" width="120" height="50"/>
+  </a>
 </p>
 
 ---
