@@ -35,6 +35,15 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" width="120" height="50"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" width="120" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="120" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="120" height="50"/>
+  </a>
 </p>
 
 ---
