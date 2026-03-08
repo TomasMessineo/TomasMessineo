@@ -7,10 +7,8 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 
 ### Sobre mí
 
-- Actualmente me encuentro trabajando en proyectos con **PHP**.
-- Amante de la música: Ed Sheeran, Bruno Mars, Teddy Swims, Maroon 5 y Coldplay son mis artistas/bandas preferidas.
-- Abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
-- Fun Fact: Por más complejo que sea el problema, nunca pierdo la sonrisa ni las ganas de superarme :D
+- Actualmente me encuentro trabajando en proyectos con **PHP** en el PREBI-SEDICI, el repositorio institucional de la Universidad Nacional de la Plata (OJS System Plugins and Tools).
+- Estoy abierto a colaborar en proyectos desafiantes que brinden oportunidades de crecimiento.
 
 ---
 
