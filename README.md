@@ -17,32 +17,34 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 ### Tecnologías en las cuales estoy capacitandome:
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="120" height="50"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="120" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="120" height="50"/>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="120" height="40"/>
   </a>
-  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="120" height="50"/>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" width="120" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="120" height="50"/>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" width="120" height="40"/>
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="50"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring" width="120" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" width="120" height="50"/>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="120" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" width="120" height="50"/>
+
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" width="120" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="120" height="50"/>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres" width="120" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="120" height="50"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="120" height="40"/>
   </a>
 </p>
 
