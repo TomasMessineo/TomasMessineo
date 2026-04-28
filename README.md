@@ -14,7 +14,7 @@ Soy un joven estudiante de Informática en la Universidad Nacional de La Plata. 
 
 ### Tecnologías en las cuales estoy capacitandome:
 
-<p align="left">
+<p align="left" display="flex">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="120" height="40"/>
   </a>
