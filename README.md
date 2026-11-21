@@ -1,4 +1,4 @@
-# Hola, soy Tomas Messineo.
+# Hola, soy Tomás Messineo.
 ---
 
 ### Me presento:
@@ -12,7 +12,7 @@ Soy estudiante de Informática en la Universidad Nacional de La Plata, Argentina
 
 ---
 
-### Tecnologías en las cuales estoy capacitandome:
+### Tecnologías en las cuales estoy capacitándome:
 
 <p>
   <a href="https://reactjs.org/" target="_blank">
