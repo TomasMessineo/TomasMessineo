@@ -1,4 +1,4 @@
-# Hola, soy Tomas Messineo 👋
+# Hola, soy Tomas Messineo.
 ---
 
 ### Me presento:
