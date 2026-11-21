@@ -42,16 +42,3 @@ Soy estudiante de Informática en la Universidad Nacional de La Plata, Argentina
 
 - **Email:** [tomasnahuelmessineo@gmail.com](mailto:tomasnahuelmessineo@gmail.com)
 - **GitHub:** [TomasMessineo](https://github.com/TomasMessineo)
-
----
-
-### Encuéntrame en otros lugares
-
-- [**YouTube**](https://www.youtube.com/@tomasmessineok) - Tutoriales y algo de música que me apasiona.
-
----
-
-<p align="center">
-  Gracias por visitar mi perfil.<br>
-  <strong>¡Nos vemos! ✨</strong>
-</p>
